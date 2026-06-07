@@ -50,13 +50,13 @@ Both shaping my discipline, strategy, and resilience.
   <tr>
     <td align="center" width="120"><b>Frontend</b></td>
     <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,ts,angular,react,nextjs,jest,&theme=dark" alt="frontend"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,angular,react,css,codepen&theme=dark" alt="frontend"/></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="120"><b>Backend</b></td>
     <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring&theme=dark" alt="backend"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,kafka&theme=dark" alt="backend"/></a>
     </td>
   </tr>
   <tr>
