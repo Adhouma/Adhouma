@@ -5,6 +5,7 @@
 # Abdeladhim Abbassi
 
 #### `Senior Full Stack Engineer`
+##### `Professional Links & Certifications`
 
 <br/>
 
@@ -12,7 +13,7 @@
   <a href="https://www.linkedin.com/in/abdeladhim-abbassi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="Linkedin" /></a>
   <a href="mailto:abbassi.abdeladhim31791@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/></a>
   <a href="https://codepen.io/Adhouma" target="_blank"><img src="https://skillicons.dev/icons?i=codepen&theme=dark" alt="CodePen"/></a>
-  <a href="https://www.credly.com/users/abbassi-abdeladhim/badges" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Credly"/></a>
+  <a href="https://www.credly.com/users/abbassi-abdeladhim/badges" target="_blank"><img src="https://cdn.simpleicons.org/credly" width="48" height="48" alt="Credly"/></a>
 </p>
 </div>
 
