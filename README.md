@@ -10,7 +10,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/abdeladhim-abbassi">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="linkdin"/>
 </a>
 
 <a href="https://codepen.io/Adhouma">
