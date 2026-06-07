@@ -9,11 +9,11 @@
 <br/>
 
 <p>
-  <a href="https://www.linkedin.com/in/abdeladhim-abbassi"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
-  <a href="https://codepen.io/Adhouma"><img src="https://skillicons.dev/icons?i=codepen&theme=dark" /></a>
-  <a href="https://www.credly.com/users/abbassi-abdeladhim/badges"><img src="https://skillicons.dev/icons?i=java&theme=dark" /></a>
+  <a href="https://www.linkedin.com/in/abdeladhim-abbassi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="Linkedin" /></a>
+  <a href="mailto:abbassi.abdeladhim31791@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/></a>
+  <a href="https://codepen.io/Adhouma" target="_blank"><img src="https://skillicons.dev/icons?i=codepen&theme=dark" alt="CodePen"/></a>
+  <a href="https://www.credly.com/users/abbassi-abdeladhim/badges" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Credly"/></a>
 </p>
-
 </div>
 
 <!-- ====================== ABOUT ====================== -->
