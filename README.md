@@ -75,7 +75,7 @@ Both shaping my discipline, strategy, and resilience.
 <br clear="all"/>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Abdeladhim&theme=dark&hide_border=true&short_numbers=true"/>
+  <img src="https://streak-stats.demolab.com?user=Adhouma&theme=dark&hide_border=true&short_numbers=true"/>
 </div>
 
 <div align="center">
