@@ -10,11 +10,11 @@
 
 <p>
 <a href="https://www.linkedin.com/in/abdeladhim-abbassi">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="linkdin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
 
 <a href="https://codepen.io/Adhouma">
-  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=codepen&theme=dark" />
 </a>
 
 <a href="https://www.credly.com/users/abbassi-abdeladhim/badges">
