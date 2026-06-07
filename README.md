@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://www.credly.com/users/abbassi-abdeladhim/badges">
-  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
 </a>
 </p>
 
