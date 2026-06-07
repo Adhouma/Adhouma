@@ -1,16 +1,84 @@
-## Hi there 👋
+<!-- ====================== HEADER ====================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=header" alt="header"/>
+  
+# Abdeladhim Abbassi
 
-<!--
-**Adhouma/Adhouma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### `Senior Full Stack Engineer`
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<a href="https://www.linkedin.com/in/abdeladhim-abbassi">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://codepen.io/Adhouma">
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/users/abbassi-abdeladhim/badges">
+  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+</p>
+
+</div>
+
+<!-- ====================== ABOUT ====================== -->
+## 👋 About Me
+
+```ts
+Senior Full Stack Engineer at Sofrecom (Orange Group) with strong experience in building and maintaining
+enterprise applications for Orange.
+
+I focus on clean code, scalable architectures, and reliable delivery in complex environments.
+I value good engineering habits, collaboration, and continuous improvement.
+
+Certifications:
+- Oracle Certified Associate – Java SE 8
+- VMware Spring Certified Professional
+
+Outside of work, I’m a chess player (1900+) and a Brazilian Jiu-Jitsu practitioner 🥋
+
+Both shaping my discipline, strategy, and resilience.
+```
+
+<!-- ====================== TECH STACK ====================== -->
+## 🛠️ Tech Stack
+
+<table align="left">
+  <tr>
+    <td align="center" width="120"><b>Frontend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,ts,angular,react,nextjs,jest,&theme=dark" alt="frontend"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Backend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring&theme=dark" alt="backend"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Databases</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="databases"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>DevOps</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab,linux,git,ansible&theme=dark" alt="devops"/></a>
+    </td>
+  </tr>
+</table>
+
+<br clear="all"/>
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Abdeladhim&theme=dark&hide_border=true&short_numbers=true"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" alt="footer"/>
+</div>
