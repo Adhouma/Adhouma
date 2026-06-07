@@ -63,6 +63,12 @@ Both shaping my discipline, strategy, and resilience.
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab,linux,git,ansible&theme=dark" alt="devops"/></a>
     </td>
   </tr>
+    <tr>
+    <td align="center" width="120"><b>AI / LLMs</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://img.icons8.com/?size=100&id=kDfpmWz6OSCQ&format=png&color=000000" alt="devops"/></a>
+    </td>
+  </tr>
 </table>
 
 <br clear="all"/>
